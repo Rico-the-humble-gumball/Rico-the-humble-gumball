@@ -1,4 +1,4 @@
-```markdown
+
 # Rico the Humble Gumball
 
 Welcome to **Rico the Humble Gumball**, a lighthearted, text-based adventure game about life inside a classic gumball machine. 
@@ -15,7 +15,7 @@ You play as Rico, a simple, unassuming gumball who doesn't want to be the flashi
 
 To play the game locally, clone this repository and run the main script.
 
-```bash
+
 # Clone the repository
 git clone [https://github.com/yourusername/rico-the-humble-gumball.git](https://github.com/yourusername/rico-the-humble-gumball.git)
 
